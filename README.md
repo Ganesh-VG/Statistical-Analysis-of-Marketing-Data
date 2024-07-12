@@ -40,7 +40,6 @@ This project focuses on analyzing customer behavior using descriptive statistics
 
 ## How to Run
 1. Clone the repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the Jupyter notebook or Python scripts to reproduce the analysis.
 
 ## Visualizations
