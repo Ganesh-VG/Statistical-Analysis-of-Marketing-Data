@@ -10,7 +10,7 @@ This project focuses on analyzing customer behavior using descriptive statistics
 - Task 4: Insights and Customer Segmentation
 - Task 5: Conclusion and Recommendations
 
-## Sample charts
+## Major chart outputs
 - Probability Mass Function
   The chart forecasts the number of purchases each customer is expected to make through various purchasing methods. This allows the store to allocate more resources to the methods with higher customer engagement.
 ![Untitled](https://github.com/user-attachments/assets/3a7b6390-e36a-45ef-b478-e2614cd656da)
